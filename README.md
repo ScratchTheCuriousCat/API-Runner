@@ -2,7 +2,7 @@
 API Runner lets you test/run APIs locally using OpenAI library. Originally designed for Unsloth.
 
 # How to use
-Skip those steps if you already have OpenAI and subprocess libraries installed!
+Skip those steps if you already have OpenAI and OS libraries installed!
 
 Execute those in your terminal:
 
@@ -16,9 +16,9 @@ Install the requirements (use python or python -m if not installing)
 ```python
 pip install openai
 ```
-3. Install subprocess
+3. Install OS
 ```python
-pip install subprocess
+pip install os
 ```
 
 # Running
