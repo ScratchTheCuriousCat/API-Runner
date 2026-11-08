@@ -32,3 +32,6 @@ cd API-Runner
 python app.py
 ```
 Now, press 1 to change the model, Base URL and API.
+
+And now it should be ready!
+![Example of finish](https://github.com/ScratchTheCuriousCat/API-Runner/blob/main/api-runner.PNG)
