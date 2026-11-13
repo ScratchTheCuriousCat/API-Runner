@@ -33,6 +33,13 @@ if inp == "1":
     ai_model = input("AI Model: ")
 elif inp == "0":
     print("No changes made, starting..")
+    if api_key == "":
+        print("Not valid API Key, Base URL or AI Model.")
+    if base_url == "":
+        print("Not valid API Key, Base URL or AI Model.")
+    if ai_model == "":
+        print("Not valid API Key, Base URL or AI Model.")
+    
     print("")
 
 os.system("color 6")
