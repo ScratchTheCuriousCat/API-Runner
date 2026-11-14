@@ -10,7 +10,7 @@ Execute those in your terminal:
 ```
 git clone https://github.com/ScratchTheCuriousCat/API-Runner/
 ```
-Install the requirements (use python or python -m if not installing)
+Install the requirements (use ```python``` or ```python -m``` if not installing)
 
 2. Install OpenAI
 ```python
